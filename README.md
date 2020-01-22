@@ -1,1 +1,2 @@
 # Human-Activity-Recognition-Random-Forest
+In this project, the focus is to build a Random Forest model to classify human activities into 6 main classes namely - Laying, sitting, standing, walk, walk-up and walk-down. The designed random forest classifier acheives an accuracy of 94% on the test data. Human Activity Recognition is usually carried out by collecting sensor data or by recording the activities using Video surveillance, but here our aim is to find insights on such data without bothering how the data is captured.
